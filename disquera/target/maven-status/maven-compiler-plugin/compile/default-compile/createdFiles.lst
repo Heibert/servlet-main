@@ -1,0 +1,4 @@
+model\Conexion.class
+model\GeneroDao.class
+controller\Genero.class
+model\GeneroVo.class
